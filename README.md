@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Amazinghao's GitHub stats](https://github-readme-stats.vercel.app/api?username=whu-lyh&count_private=true&show_icons=true&hide=prs&theme=radical)](https://github.com/whu-lyh/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=whu-lyh&count_private=true&show_icons=true&hide=prs&theme=radical" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whu-lyh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
 
 ✧ Website: https://whu-lyh.github.io/
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whu-lyh&layout=compact" alt="logo" height="120" align="left" style="margin-left: 50px; margin: 5px; margin-bottom: 20px;" />
+
+</p>
